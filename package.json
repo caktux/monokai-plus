@@ -1,7 +1,7 @@
 {
   "name": "monokai-plus",
   "theme": "syntax",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Yet another monokai theme",
   "repository": "https://github.com/caktux/monokai-plus",
   "license": "MIT",
