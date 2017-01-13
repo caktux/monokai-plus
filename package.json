@@ -1,7 +1,7 @@
 {
   "name": "monokai-plus",
   "theme": "syntax",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Monokai theme with highlighted variables and function calls when declared by language grammars",
   "repository": "https://github.com/caktux/monokai-plus",
   "license": "MIT",
